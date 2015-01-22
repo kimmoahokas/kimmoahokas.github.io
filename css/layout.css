@@ -71,8 +71,7 @@ header .banner-text h3 {
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
-header .banner-text h3 span,
-header .banner-text h3 a {
+header .banner-text h3 span{
    color: #fff;
 }
 header .banner-text hr {
@@ -82,20 +81,21 @@ header .banner-text hr {
    border-color: rgba(150, 150, 150, .1);
 }
 
-/* header social links */
-header .social {
+/* social links */
+.social {
+   text-align: center;
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
-header .social li {
+.social li {
    display: inline-block;
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+.social li a { color: #fff; }
+.social li a:hover { color: #11ABB0; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -242,6 +242,17 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
+#resume .icon:before {
+   font-family: 'FontAwesome';
+   content: "\f016";
+   padding-right: 10px;
+   font-size: 72px;
+   line-height: 72px;
+   text-align: left;
+   float: left;
+   color: #313131;
+}
+
 #resume a, #resume a:visited  { color: #11ABB0; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
@@ -293,8 +304,6 @@ ul#nav li.current a { color: #F06000; }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -303,7 +312,6 @@ ul#nav li.current a { color: #F06000; }
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#contact h1 span { display: none; }
 #contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
@@ -313,6 +321,11 @@ ul#nav li.current a { color: #F06000; }
    text-align: left;
    float: left;
    color: #ebeeee;
+}
+#contact h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
 }
 
 #contact h4 {
@@ -325,6 +338,9 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 3%;
 }
 #contact .header-col { padding-top: 6px; }
+
+#contact a, #contact a:visited  { color: #fff; }
+#contact a:hover, #contact a:focus { color: #11ABB0; }
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
@@ -366,21 +382,6 @@ footer .copyright  li:first-child:before {
     display: none;
 }
 
-/* social links */
-footer .social-links {
-   margin: 18px 0 30px 0;
-   padding: 0;
-   font-size: 30px;
-}
-footer .social-links li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    margin-left: 42px;
-    color: #F06000;
-}
-
-footer .social-links li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {
