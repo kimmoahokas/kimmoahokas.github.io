@@ -1,5 +1,15 @@
+# About #
 
-==================================================================================================
+This is the source code for my personal home page [kimia.fi][kimia.fi].
+
+The design is based on [CEEVEE template][CEEVEE] by [Styleshout][styleshout].
+
+[kimia.fi]: http://kimia.fi "Personal home page of Kimmo Ahokas"
+[CEEVEE]: http://www.styleshout.com/free-templates/ceevee/ "CEEVEE by Styleshout"
+[styleshout]: http://www.styleshout.com "Styleshout"
+
+
+# About CEEVEE #
 
 CEEVEE is a clean, modern, fully responsive site template for your
 resume and portfolio. With this template, you can easily introduce
@@ -7,7 +17,7 @@ yourself and showcase your works to future clients and employers. Also,
 it is flexible and easy to customize so you can even use this template as a 
 creative, business or portfolio site for your company.
 
-==================================================================================================
+==============================================================================
 
 
 LICENSE:
