@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -246,8 +246,8 @@ ul#nav li.current a { color: #F06000; }
    font-family: 'FontAwesome';
    content: "\f016";
    padding-right: 10px;
-   font-size: 72px;
-   line-height: 72px;
+   font-size: 120px;
+   line-height: 120px;
    text-align: left;
    float: left;
    color: #313131;
@@ -316,8 +316,8 @@ ul#nav li.current a { color: #F06000; }
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 10px;
-	font-size: 72px;
-   line-height: 72px;
+	font-size: 120px;
+   line-height: 120px;
    text-align: left;
    float: left;
    color: #ebeeee;
