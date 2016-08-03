@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kimia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kimia.fi
+  * I am kimia (https://keybase.io/kimia) on keybase.
+  * I have a public key ASDWC5nZDTCM9pr8clE8ev8AC8J64AZ-5pxK9vkl4CW0JAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d60b99d90d308cf69afc72513c7aff000bc27ae0067ee69c4af6f925e025b4240a",
+            "host": "keybase.io",
+            "kid": "0120d60b99d90d308cf69afc72513c7aff000bc27ae0067ee69c4af6f925e025b4240a",
+            "uid": "ec9f511b98b2bdf193058768c60f6e19",
+            "username": "kimia"
+        },
+        "service": {
+            "hostname": "kimia.fi",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470209803,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470209666,
+        "hash": "30806541341bf1b9f75df037a4996eec6e41416413da4908348d007022eb229f0df20cf7a26e26d24aa7dd0b5bdcebce5b4629f9bfb198a51404da9d63278fe8",
+        "seqno": 555932
+    },
+    "prev": "8c81bb3cdc6d396cc32e452aa7b158bc24f7967d99a22fe63b1e9117cd157853",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1guZ2Q0wjPaa/HJRPHr/AAvCeuAGfuacSvb5JeAltCQKp3BheWxvYWTFAu17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDYwYjk5ZDkwZDMwOGNmNjlhZmM3MjUxM2M3YWZmMDAwYmMyN2FlMDA2N2VlNjljNGFmNmY5MjVlMDI1YjQyNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDYwYjk5ZDkwZDMwOGNmNjlhZmM3MjUxM2M3YWZmMDAwYmMyN2FlMDA2N2VlNjljNGFmNmY5MjVlMDI1YjQyNDBhIiwidWlkIjoiZWM5ZjUxMWI5OGIyYmRmMTkzMDU4NzY4YzYwZjZlMTkiLCJ1c2VybmFtZSI6ImtpbWlhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJraW1pYS5maSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzAyMDk4MDMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDIwOTY2NiwiaGFzaCI6IjMwODA2NTQxMzQxYmYxYjlmNzVkZjAzN2E0OTk2ZWVjNmU0MTQxNjQxM2RhNDkwODM0OGQwMDcwMjJlYjIyOWYwZGYyMGNmN2EyNmUyNmQyNGFhN2RkMGI1YmRjZWJjZTViNDYyOWY5YmZiMTk4YTUxNDA0ZGE5ZDYzMjc4ZmU4Iiwic2Vxbm8iOjU1NTkzMn0sInByZXYiOiI4YzgxYmIzY2RjNmQzOTZjYzMyZTQ1MmFhN2IxNThiYzI0Zjc5NjdkOTlhMjJmZTYzYjFlOTExN2NkMTU3ODUzIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAXkHO5ofkXlxGSFRhH7NK7W0wHU9wIkuXH+6negJ1a6vFw/mPLNIS1EZtkrC6zNNuVPZ4EJs0xfJ4FMz+RgLwWoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kimia
+
+==================================================================
