@@ -1,0 +1,45 @@
+---
+layout: page
+permalink: /papers/
+title: Papers
+---
+
+During my years at Aalto University I had to write some academic papers. For historical reasons those are available here.
+
+## Theses
+
+### Load balancing in LTE core network with OpenStack clouds: Design and implementation
+
+Master's thesis • November 2015
+
+My Master's thesis explores the possibility of implementing LTE core network components as applications running on virtual machines provided by OpenStack cloud. A hybrid cloud consisting of two OpenStack instances in built and simple load balancer that automatically creates virtual machines to the most suitable cloud when requested by application is implemented to validate the use case.
+
+[PDF](/papers/SCI_2016_Ahokas_Kimmo_master.pdf)
+
+### Mobiilien tietoliikennejärjestelmien emulointi (Emulation of mobile communication systems)
+
+Bachelor's thesis • December 2012
+
+My Bachelor's thesis researched different methods for emulating mobile networks for investigating application performance on mobile platforms under different network conditions. The thesis is written in Finnish.
+
+[PDF](/papers/SCI_2012_Ahokas_Kimmo_bachelor.pdf)
+
+## Other academic papers
+
+### Software-defined networking
+
+Seminar paper • December 2014
+
+Abstract: Software-defined networking is a new network architecture that has attracted a lot of attention lately. SDN promises to make network devices simpler while giving network administrators better control over network and increasing network performance. This paper briefly introduces SDN architecture, related network architecture and some recent research related to SDN.
+
+[PDF](/papers/sdn.pdf)
+
+### Comparison of cloud management platforms
+
+Seminar paper • May 2014
+
+Abstract: Cloud computing allows fast and efficient resource provisioning within data centers. In large companies this can lead to significant savings, thus creating market for complete cloud platforms. In addition to commercial products, several open source cloud platforms exist. This paper compares four cloud management platforms and identifies the factors affecting future success of each of the platforms. We also estimate the future development of the cloud platform market.
+
+[PDF](/papers/iwork.pdf)
+
+
