@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Home of Kimmo Ahokas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kimia.fi" # the base hostname & protocol for your site, e.g. http://example.com
+include: [".well-known"]
 twitter_username: kimmoahokas
 github_username:  kimmoahokas
 facebook_username: kimmo.ahokas
