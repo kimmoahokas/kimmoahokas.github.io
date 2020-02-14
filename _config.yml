@@ -25,6 +25,9 @@ twitter_username: kimmoahokas
 github_username:  kimmoahokas
 facebook_username: kimmo.ahokas
 linkedin_username: kimmoahokas
+mastodon:
+- username: Kimmoahokas
+  instance: mastodon.technology
 minima:
   date_format: "%d.%m.%Y"
   # These work starting from minima 3.0 (not yet)

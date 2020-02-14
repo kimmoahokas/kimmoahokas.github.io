@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm Kimmo Ahokas, an IT Specialist currently working at [Futurice][futurice].
+I'm Kimmo Ahokas, a DevOps Specialist currently working at [Futurice][futurice].
 
 I have studied Computer Science in Aalto University School of Science. After 7 years of studies I graduated as Master of Science in late 2015.
 

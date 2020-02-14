@@ -6,7 +6,7 @@ layout: home
 title: Home of Kimmo Ahokas
 ---
 
-I'm a IT Specialist living in Helsinki and working for [Futurice][futurice].
+I'm a DevOps Specialist living in Helsinki and working for [Futurice][futurice].
 I'm trying to gather some interesting learnings here as blog posts.
 
 [futurice]: https://futurice.com "Futurice"
