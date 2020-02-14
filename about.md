@@ -14,4 +14,6 @@ In case you want to use encrypted email, my GPG key is [87B03479](/87B03479.asc)
 
 My phone number should be easy to find from any Finnish phone directory.
 
+The source code of this blog is available in [GitHub](https://github.com/kimmoahokas/kimmoahokas.github.io).
+
 [futurice]: https://futurice.com "Futurice"
