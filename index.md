@@ -6,7 +6,7 @@ layout: home
 title: Home of Kimmo Ahokas
 ---
 
-I'm a DevOps Specialist living in Helsinki and working for [Futurice][futurice].
+I'm a Cloud Developer working at [Sanoma Media Finland][smf].
 I'm trying to gather some interesting learnings here as blog posts.
 
-[futurice]: https://futurice.com "Futurice"
+[smf]: https://www.sanoma.fi "Sanoma Media Finland"
