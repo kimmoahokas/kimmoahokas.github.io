@@ -40,8 +40,8 @@ minima:
     telegram: KimmoAhokas
     keybase: kimia
     mastodon:
-      - username: Kimmoahokas
-        instance: mastodon.technology
+      - username: KimmoAhokas
+        instance: mastodon.social
 header_pages:
   - about.md
 show_excerpts: true
